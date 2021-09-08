@@ -1,7 +1,7 @@
 '''
 Student Marks Managaement System.
 
-Given the marks of 100 students for 6 subjects along with their faculty names in a CSV file format.
+Given the marks of 100 students for 6 subjects along with their faculty names in a CSV file format (here tha data is seperated by '\t').
 
 The task is to load the CSV files and answer the following queries.
 
